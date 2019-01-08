@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/js/git_Astar/A_star.cpp
+iostream
+-
+vector
+-
+list
+-
+math.h
+-
+A_star.h
+/home/js/git_Astar/A_star.h
+
+/home/js/git_Astar/A_star.h
+iostream
+-
+vector
+-
+list
+-
+math.h
+-
+
+/home/js/git_Astar/main.cpp
+iostream
+-
+vector
+-
+list
+-
+math.h
+-
+A_star.h
+/home/js/git_Astar/A_star.h
+
