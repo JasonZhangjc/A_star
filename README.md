@@ -1,4 +1,4 @@
-# A* Agorithm implementation in C++
+# A* Agorithm Implementation in C++
 
 This is a demo for how to use it.
  
