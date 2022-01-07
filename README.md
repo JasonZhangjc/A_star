@@ -1,6 +1,6 @@
 # A* Agorithm for Path Finding in C++
 
-This program is the same as the program in https://blog.csdn.net/xgf415/article/details/75200047</br>
+This program is inspired by the program in https://blog.csdn.net/xgf415/article/details/75200047</br>
 This is a demo for how to use it.
  
 To run the project:
